@@ -52,7 +52,6 @@ cloudpickle==2.2.1
 cmake==3.27.6
 colorama==0.4.6
 colorcet==3.0.1
-comm==0.1.2
 conda==23.7.2
 conda-build==3.26.0
 conda-content-trust==0+unknown
